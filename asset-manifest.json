@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/calcolatore-bollette/static/css/main.2ad0a742.chunk.css",
+    "main.js": "/calcolatore-bollette/static/js/main.03e6c09d.chunk.js",
+    "main.js.map": "/calcolatore-bollette/static/js/main.03e6c09d.chunk.js.map",
+    "runtime-main.js": "/calcolatore-bollette/static/js/runtime-main.644ca57a.js",
+    "runtime-main.js.map": "/calcolatore-bollette/static/js/runtime-main.644ca57a.js.map",
+    "static/js/2.d43ec628.chunk.js": "/calcolatore-bollette/static/js/2.d43ec628.chunk.js",
+    "static/js/2.d43ec628.chunk.js.map": "/calcolatore-bollette/static/js/2.d43ec628.chunk.js.map",
+    "static/js/3.0a2ea465.chunk.js": "/calcolatore-bollette/static/js/3.0a2ea465.chunk.js",
+    "static/js/3.0a2ea465.chunk.js.map": "/calcolatore-bollette/static/js/3.0a2ea465.chunk.js.map",
+    "index.html": "/calcolatore-bollette/index.html",
+    "static/css/main.2ad0a742.chunk.css.map": "/calcolatore-bollette/static/css/main.2ad0a742.chunk.css.map",
+    "static/js/2.d43ec628.chunk.js.LICENSE.txt": "/calcolatore-bollette/static/js/2.d43ec628.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.644ca57a.js",
+    "static/js/2.d43ec628.chunk.js",
+    "static/css/main.2ad0a742.chunk.css",
+    "static/js/main.03e6c09d.chunk.js"
+  ]
+}
